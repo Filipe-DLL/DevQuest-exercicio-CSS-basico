@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: rgb(225, 8, 8);
+}
+
+p {
+    background: #F5F5F5;
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo2 {
+    background-color: #F0CCE2;
+}
